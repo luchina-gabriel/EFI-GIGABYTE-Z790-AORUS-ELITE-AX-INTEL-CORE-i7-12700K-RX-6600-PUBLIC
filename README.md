@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 Aorus Elite AX, i9 13900K, RX 6900 XT and AirDrop
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-Z790-AORUS-ELITE-AX-INTEL-CORE-i7-12700K-RX-6600-PUBLIC/assets/23700365/719de8b1-2392-48b2-a237-551b1998e88a)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
